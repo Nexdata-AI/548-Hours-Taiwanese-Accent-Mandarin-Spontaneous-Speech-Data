@@ -4,7 +4,8 @@
 ## Description
 The data is recorded by 290 children from the U.S.A, with a balanced male-female ratio. The recorded content of the data mainly comes from children's books and textbooks, which are in line with children's language usage habits. The recording environment is relatively quiet indoors, the text is manually transferred with high accuracy.
 
-For more details, please refer to the link: https://www.datatang.ai/datasets/1197
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1197?source=Github
+
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
