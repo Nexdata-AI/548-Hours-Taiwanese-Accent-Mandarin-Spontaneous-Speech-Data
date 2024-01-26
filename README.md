@@ -1,35 +1,23 @@
-# 200-Hours-American-Children-Speech-Data-By-Mobile-Phone
-
+# 548-Hours-Taiwanese-Accent-Mandarin-Spontaneous-Speech-Data
 
 ## Description
-The data is recorded by 290 children from the U.S.A, with a balanced male-female ratio. The recorded content of the data mainly comes from children's books and textbooks, which are in line with children's language usage habits. The recording environment is relatively quiet indoors, the text is manually transferred with high accuracy.
+548 Hours - Taiwanese Accent Mandarin Spontaneous Speech Data, the content covering multiple subjects. All the speech audio was manually transcribed into text content; speaker identity, gender, and other attribution are also annotated. This dataset can be used for voiceprint recognition model training, corpus construction for machine translation, and algorithm research introduction, etc.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1197?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1295?source=Github
 
 
 ## Format
-16kHz, 16bit, uncompressed wav, mono channel
-
-## Recording environment
-quiet indoor environment, without echo
-
-## Recording content (read speech)
-children's books and textbooks
-
-## Demographics
-around 290 speakers, balance for gender, all children are 5-12 years old
-
-## Device
-Android mobile phone, iPhone
-
+16kHz, 16bit, mono channel, wav
+## Data Content
+Spontaneous speech data collected from public channels with a colloquial style;
 ## Language
-American English
-
+Accent Mandarin
+## Annotation
+annotation for the transcription text, speaker identification, gender;
 ## Application scenarios
-speech recognition; voiceprint recognition.
-
-## Accuracy rate
-95% of sentence accuracy
+speech recognition ; caption generation and content review;
+## Accuracy
+at a Sentence Accuracy Rate (SAR) of being no less than 97%.
 
 # Licensing Information
 Commercial License
